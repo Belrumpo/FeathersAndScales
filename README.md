@@ -1,4 +1,2 @@
 Hiii,
-This is a lil game about a bird who wants to become a fish. This idea was initially made in bitsy and I want to try and give it another chance with pico-8.
-new update
-This is gonna be a vampire survivor hehe 
+What started as a top down adventure game is not a vampire survivor like game, yay
